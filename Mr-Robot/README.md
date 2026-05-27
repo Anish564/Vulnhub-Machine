@@ -173,7 +173,7 @@ nc -lvnp 443
 - Go to Installed Plugins
 - Activate Hello Dolly Plugin
 
-## Shell Received
+### Shell Received
 
 Reverse shell successfully received on attacker machine.
 
